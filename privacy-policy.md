@@ -162,7 +162,7 @@ Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikler Uygulama 
 
 - **Geliştirici:** mattecnology
 - **E-posta:** Uygulama içi Ayarlar → Hakkında bölümündeki adres
-- **Bu politikanın adresi:** https://github.com/mattecnology/babysleeper/blob/main/README.md
+- **Bu politikanın adresi:** https://github.com/mattecnology/babysleeper/blob/main/privacy-policy.md
 
 ---
 
@@ -180,4 +180,4 @@ Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikler Uygulama 
 
 ## Lisans
 
-Tüm hakları saklıdır © 2026 mattecnology
+Tüm hakları saklıdır © 2026 mattechnology
